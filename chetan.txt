@@ -1,0 +1,3 @@
+Hi this is demo site of pet_stays.
+check the user login block.
+hi hello
